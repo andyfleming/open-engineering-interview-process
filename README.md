@@ -34,7 +34,7 @@ The following content will provide candidates with valuable information.
 
 ![](images/HiringProcess.png)
 
-We aim to have our interview process take an average of 3 weeks from start to finish.  Between each step of the interview process, we ask for at most 3 business days for us to to make a decision, but at any point during the interview process, please feel comfortable reaching out to us for updates on your candidacy. 
+We aim to have our interview process take an average of 1 months from start to finish. Between each step of the interview process, we ask for at most 3 business days for us to to make a decision, but at any point during the interview process, please feel comfortable reaching out to us for updates on your candidacy. 
 
 1. **Candidate Application Review:** The recruiter for the position will do the first round of evaluations and review application submissions. If more information is required, a member of the team will reach out to the applicant directly. Candidates that are disqualified at this stage will be notified by the recruiter.
 
@@ -47,7 +47,7 @@ We aim to have our interview process take an average of 3 weeks from start to fi
     - **Take-home Exercise:** The take-home exercise typically takes 2-6 hours to complete and allows the hiring manager or a memeber of the team to review a candidate’s skills before proceeding to the next step of the hiring process.
 
 
-4. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams too. The recruiter will share an overview of who the candidate will be meeting with. The interview itself will including additional techinical probing and discussing the take-home exercise, with a break in the middle for lunch with a member of the team. Each session runs an hour long, including lunch, which is a time for candidates to take a break, relax, and get a feel for our culture at Avero. 
+4. **In-person Interviews:** The next step in the interview process is an onsite interview. The onsite interview team consists of people that would be on the candidate's direct team and people on cross-functional teams too. The recruiter will share an overview of who the candidate will be meeting with. The interview itself will including additional techinical probing and discussing the take-home exercise.
 
 5. **Hiring Committee Review:** After the onsite interview is complete, feedback from the interview process is shared across the interview team. Interview team members review the feedback and independently reach a decision of hire/no-hire based on the comprehensive feedback. At the HC review, the interview team reaches a consensus on whether to reject the candidate or proceed with reference calls.
 
